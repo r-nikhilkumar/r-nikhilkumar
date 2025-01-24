@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r-nikhilkumar" alt="r-nikhilkumar" /></a> </p>
 <img align="right" alt="coder" width="300" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif"></img>
 
-- 🔭 I’m currently working on [ExchangeNest](https://github.com/r-nikhilkumar/ExchangeNest)
+- 🔭 I’m currently working on [Hive](https://github.com/r-nikhilkumar/Hive)
 
 - 🌱 I’m currently learning **Android Development**
 
