@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil Kumar</h1>
-<h3 align="center">Software Engineer at <a href="https://www.zomato.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Zomato_logo.png" alt="Zomato" height="22" /></a> | Fullstack & Backend Developer | India 🇮🇳</h3>
+<h3 align="center">Software Engineer at <a href="https://www.zomato.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Zomato_logo.png" alt="Zomato" height="22" /></a> | Backend Developer | India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=r-nikhilkumar&label=Profile%20views&color=0e75b6&style=flat" alt="r-nikhilkumar" />
