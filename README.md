@@ -23,7 +23,6 @@
 - 👯 Contributed to: [OHC](https://github.com/ohcnetwork) 
 - 💬 Ask me about: `gRPC`, `Microservices`, `Go`, `ReactJS`, `NodeJS`
 - 📫 Email me at: **thenikhilkumar1@gmail.com**  
-- 📄 [View My Resume](https://docs.google.com/document/d/1nrqA7WI_ESLLqFptSSl0DYa5gK-Z99FM/edit)
 
 ---
 
