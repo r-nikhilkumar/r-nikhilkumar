@@ -74,11 +74,25 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=r-nikhilkumar&show_icons=true&theme=radical" width="32%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-nikhilkumar&layout=compact&theme=radical" width="32%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=r-nikhilkumar&theme=radical" width="32%" />
-</p>
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=r-nikhilkumar&show_icons=true&theme=radical"
+       width="300" height="150"
+       style="display:inline-block; vertical-align:top;"
+       alt="GitHub Stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-nikhilkumar&layout=compact&theme=radical"
+       width="300" height="150"
+       style="display:inline-block; vertical-align:top;"
+       alt="Top Languages" />
+
+  <img src="https://github-readme-streak-stats.vercel.app/?user=r-nikhilkumar&theme=radical"
+       width="300" height="150"
+       style="display:inline-block; vertical-align:top;"
+       alt="GitHub Streak" />
+
+  <p><em>📌 Note: Some stats may not show if external services are down.</em></p>
+</div>
 
 ---
 
