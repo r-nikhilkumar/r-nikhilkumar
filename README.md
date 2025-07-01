@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-- 👨‍💻 Currently working at **Zomato** as a Software Engineer
+- 👨‍💻 Currently working at [**Zomato**](https://github.com/zomato) as a Software Engineer
 - 🔭 Built: [Hive](https://github.com/r-nikhilkumar/Hive) – an open-source project
 - 👯 Contributed to: [OHC](https://github.com/ohcnetwork) 
 - 💬 Ask me about: `gRPC`, `Microservices`, `Go`, `ReactJS`, `NodeJS`
