@@ -75,10 +75,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
 ![](https://github-readme-stats.vercel.app/api?username=r-nikhilkumar&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=r-nikhilkumar&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=r-nikhilkumar&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
+
+<div align="center">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=r-nikhilkumar&theme=2077" height="180em" alt="r-nikhilkumar" />
 </div>
 
